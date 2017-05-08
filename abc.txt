@@ -1,2 +1,4 @@
-this is my first text file
+this is git 
+this is my new txt file
+
 
